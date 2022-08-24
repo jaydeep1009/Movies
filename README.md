@@ -1,4 +1,4 @@
-# MoviesData_Analysis
+# Movielens_Data_Analysis
 ## Project Description
 This project aims to analyse movies data by using Apache Hive .
 
